@@ -1,2 +1,3 @@
 # Rahul_Demo
-First Repository in Git 
+The First Repository in Git 
+Author - Rahul Ettabpona
